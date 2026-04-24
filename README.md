@@ -1,4 +1,4 @@
-# Salutho - Desafio de Estágio para Desenvolvedor de Software 
+# Salutho - Desafio para Desenvolvedor de Software 
 
 ## Visão Geral
 Este desafio consiste em desenvolver uma aplicação em React que interage com uma API Django para calcular o menor número inteiro divisível por todos os números dentro de um intervalo específico. Você deverá demonstrar competência tanto em desenvolvimento frontend com React quanto em backend com Django.
@@ -57,7 +57,7 @@ Para submeter sua solução, siga os passos abaixo:
 1. Crie um fork deste repositório (*Mantenha privado).
 2. Desenvolva sua solução no fork criado.
 3. Certifique-se de incluir um `README` em seu repositório com instruções claras sobre como configurar e executar sua aplicação, incluindo o servidor Django.
-4. Envie um e-mail para [rh@salutho.com] com o assunto "Submissão do Desafio de Estágio - [Seu Nome Completo]" com o link do repositório GitHub do seu projeto.
+4. Envie um e-mail para [rh@salutho.com] com o assunto "Submissão do Desafio - [Seu Nome Completo]" com o link do repositório GitHub do seu projeto.
 
 ## Deadline
 O prazo para submeter as soluções é até às 23:59 do dia 26 de maio de 2024.
